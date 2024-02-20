@@ -368,10 +368,12 @@ body {
   margin-bottom: 80px; }
   @media (max-width: 992px) {
     .advanteges__column {
-      flex: 0 1 50%; } }
+      flex: 0 1 50%;
+      margin-bottom: 25px; } }
   @media (max-width: 559px) {
     .advanteges__column {
-      flex: 0 1 100%; } }
+      flex: 0 1 100%;
+      margin-bottom: 10px; } }
 
 .advanteges__block {
   width: 230px;
